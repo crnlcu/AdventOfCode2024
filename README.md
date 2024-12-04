@@ -1,6 +1,3 @@
-# AdventOfCode2024
-My AdventOfCode2024 (done is better than perfect )from https://adventofcode.com/2024
-
 
 
 # AdventOfCode2024
