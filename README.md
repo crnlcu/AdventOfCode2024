@@ -7,10 +7,10 @@ My AdventOfCode2024 (done is better than perfect) from https://adventofcode.com/
 
 | Day | Link |
 |-----|------|
-| 1   | [⭐](https://adventofcode.com/2024/day/1) |
-| 2   | [⭐](https://adventofcode.com/2024/day/2) |
-| 3   | [⭐](https://adventofcode.com/2024/day/3) |
-| 4   | [⭐](https://adventofcode.com/2024/day/4) |
+|[Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1)| [⭐](https://adventofcode.com/2024/day/1) |
+|[Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2)| [⭐](https://adventofcode.com/2024/day/2) |
+|[Day 3: Mull It Over](https://adventofcode.com/2024/day/3)   | [⭐](https://adventofcode.com/2024/day/3) |
+|[Day 4: Ceres Search](https://adventofcode.com/2024/day/4)   | [⭐](https://adventofcode.com/2024/day/4) |
 | 5   |  |
 | 6   |  |
 | 7   |  |
