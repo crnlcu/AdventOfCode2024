@@ -7,10 +7,10 @@ My AdventOfCode2024 (done is better than perfect) from https://adventofcode.com/
 
 | Day | Link |
 |-----|------|
-| 1   | [⭐](https://github.com/username/AdventOfCode2024/blob/main/day1/day1.py) |
-| 2   | [⭐](https://github.com/username/AdventOfCode2024/blob/main/day2/day2.py) |
-| 3   | [⭐](https://github.com/username/AdventOfCode2024/blob/main/day3/day3.py) |
-| 4   | [⭐](https://github.com/username/AdventOfCode2024/blob/main/day4/day4.py) |
+| 1   | [⭐](https://adventofcode.com/2024/day/1) |
+| 2   | [⭐](https://adventofcode.com/2024/day/2) |
+| 3   | [⭐](https://adventofcode.com/2024/day/3) |
+| 4   | [⭐](https://adventofcode.com/2024/day/4) |
 | 5   |  |
 | 6   |  |
 | 7   |  |
