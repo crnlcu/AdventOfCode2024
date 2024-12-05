@@ -10,9 +10,8 @@ My AdventOfCode2024 (done is better than perfect) from https://adventofcode.com/
 |[Day 1: Historian Hysteria](https://adventofcode.com/2024/day/1)| [🎄](https://github.com/crnlcu/AdventOfCode2024/blob/main/day1/day1.py) | |
 |[Day 2: Red-Nosed Reports](https://adventofcode.com/2024/day/2)| [🎁](https://github.com/crnlcu/AdventOfCode2024/blob/main/day2/day2.py) ||
 |[Day 3: Mull It Over](https://adventofcode.com/2024/day/3)   | [⭐](https://github.com/crnlcu/AdventOfCode2024/blob/main/day3/day3.py) ||
-|[Day 4: Ceres Search](https://adventofcode.com/2024/day/4)   | [⭐](https://github.com/crnlcu/AdventOfCode2024/blob/main/day4/day4.py) ||
-|[Day 5: Print Queue](https://adventofcode.com/2024/day/5) |  [🎄](https://github.com/crnlcu/AdventOfCode2024/blob/main/day5/day5.py)| 
-"The Elf looks quizzically at you. Did you misunderstand the assignment?" that gave me GROMACS-vibe|
+|[Day 4: Ceres Search](https://adventofcode.com/2024/day/4)   | [⭐](https://github.com/crnlcu/AdventOfCode2024/blob/main/day4/day4.py) | "The Elf looks quizzically at you. Did you misunderstand the assignment?" that gave me GROMACS-vibe||
+|[Day 5: Print Queue](https://adventofcode.com/2024/day/5) |  [🎄](https://github.com/crnlcu/AdventOfCode2024/blob/main/day5/day5.py)| |
 | 6   |  |
 | 7   |  |
 | 8  |  |
